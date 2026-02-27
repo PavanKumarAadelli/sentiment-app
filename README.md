@@ -26,20 +26,20 @@ The objective is to analyze customer sentiments to understand product feedback b
 
 ### Prerequisites
 Install the required libraries:
-```bash
+
 pip install -r requirements.txt
 
 
 ### Running Locally
 
 1. **Clone the repository:**
-   ```bash
+
    git clone https://github.com/your-username/sentiment-app.git
    cd sentiment-app
    
 
 2. **Run the Streamlit App:**
-   ```bash
+
    streamlit run app.py
    
 
